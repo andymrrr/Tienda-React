@@ -1,0 +1,38 @@
+[
+    {
+        "Nombre" : "Juan Perez",
+        "Clasificacion": 5,
+        "Detatalle": "Es un producto muy bueno",
+        "IdProducto": 1
+    },
+    {
+        "Nombre" : "Luis Sanchez",
+        "Clasificacion": 5,
+        "Detatalle": "La mejor compra que he hecho",
+        "IdProducto": 2
+    },
+    {
+        "Nombre" : "Felipe Castillo",
+        "Clasificacion": 5,
+        "Detatalle": "Siempre cumple sus funciones, nunca falla",
+        "IdProducto": 3
+    },
+    {
+        "Nombre" : "Maria Lopez",
+        "Clasificacion": 5,
+        "Detatalle": "Fantastico device, funcionamiento excepcional",
+        "IdProducto": 4
+    },
+    {
+        "Nombre" : "Pedro Santillan",
+        "Clasificacion": 5,
+        "Detatalle": "Lo consegui con una oferta increible",
+        "IdProducto": 5
+    },
+    {
+        "Nombre" : "Jeff Smith",
+        "Clasificacion": 5,
+        "Detatalle": "Volvere a comprar otro, es un producto con grandes beneficios",
+        "IdProducto": 6
+    }
+]

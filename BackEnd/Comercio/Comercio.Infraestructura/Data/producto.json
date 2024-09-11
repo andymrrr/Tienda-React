@@ -1,0 +1,57 @@
+[
+    {
+        "Nombre" : "IPhone",
+        "Precio": 999.99,
+        "Descripcion": "El iPhone dispone de cámara de fotos y un reproductor de música (equivalente al del iPod), además de software para enviar y recibir mensajes de texto y de voz",
+        "Clasificacion": 5,
+        "vendedor":"apple",
+        "Existencias": 1000,
+        "Idcategoria": 1
+    },
+    {
+        "Nombre" : "HP EliteBook Dragonfly G3",
+        "Precio": 4500.99,
+        "Descripcion": "El HP EliteBook Dragonfly G3 es, como su propio Nombre indica, como una libélula: aerodinámico, ultraligero, resistente y tecnológicamente pensado para la productividad",
+        "Clasificacion": 5,
+        "vendedor":"HP",
+        "Existencias": 500,
+        "Idcategoria": 1
+    },
+    {
+        "Nombre" : "Gigabyte Aorus G5",
+        "Precio": 8900.99,
+        "Descripcion": "Gigabyte Aorus G5 KC-5ES1130SD es un potente equipo de gama media con pantalla LED IPS de 15 pulgadas y resolución Full HD, con 144 Hz de tasa de refresco",
+        "Clasificacion": 5,
+        "vendedor":"Acer",
+        "Existencias": 500,
+        "Idcategoria": 1
+    },
+    {
+        "Nombre" : "Acer TravelMate",
+        "Precio": 2900.99,
+        "Descripcion": "Este Acer TravelMate P2 TMP214-53 es un equipo para productividad y uso multimedia, con una pantalla de 14 pulgadas Full HD, aunque no es especialmente ligero",
+        "Clasificacion": 5,
+        "vendedor":"Acer",
+        "Existencias": 500,
+        "Idcategoria": 1
+    },
+    {
+        "Nombre" : "Tv X14313",
+        "Precio": 1700.99,
+        "Descripcion": "Medion X14313 es una smart TV modesta en prestaciones, de la gama de entrada, aunque con una diagonal de 43 pulgadas y resolución 4K sobre un panel LED LCD a 60 Hz",
+        "Clasificacion": 5,
+        "vendedor":"Sony",
+        "Existencias": 500,
+        "Idcategoria": 1
+    },
+    {
+        "Nombre" : "LG Oled Flex",
+        "Precio": 5000.99,
+        "Descripcion": "El LG OLED Flex es una televisión inteligente de 42 pulgadas, con resolución 4K, tasa de refresco a 120 Hz y tecnología OLED. El panel llega recubierto de un recubrimiento antirreflectante bastante eficaz, compatibilidad con las tecnologías G-Sync de NVIDIA y Freesync de AMD",
+        "Clasificacion": 5,
+        "vendedor":"LG",
+        "Existencias": 500,
+        "Idcategoria": 1
+    }
+
+]
